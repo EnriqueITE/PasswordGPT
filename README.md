@@ -1,3 +1,5 @@
+![PasswordGPT Header Image](https://enriqueite.com/img/passwordGPTHeader.png "PasswordGPT Header Image")
+
 # PasswordGPT
 Make a password dictionary using Artificial Intelligence (ChatGPT API)
 
